@@ -16,6 +16,9 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
-
+//publishing
 Route::get('/publishing', 'PublishingController@index')->name('publishing.index');
 Route::post('/publishing', 'PublishingController@store')->name('publishing.store');
+
+//chart
+Route::get('/chart', 'ChartController@index')->name('chart.index');
