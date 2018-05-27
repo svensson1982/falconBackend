@@ -1,4 +1,13 @@
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
+I have created a backend but it runs in localhost.
+
+How to start the backend?<br>
+1. Open a terminal/cmd and cd/enter into falconBackend/public dirrectory
+2. After you should run the following command: php -S localhost:8000 
+You just started a local php server on 8000 port
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
