@@ -2,10 +2,10 @@
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-I have created a backend and it runs on localhost.
-Prerequisite: php7.1, apache
+I have created a backend and it runs on localhost.<br>
+<h5>Prerequisite: php7.1, apache</h5>
 
-How to start the backend?<br>
+How to start the backend:<br>
 1. Open a terminal/cmd and cd/enter into falconBackend/public dirrectory
 2. After you should run the following command: php -S localhost:8000 
 You just started a local php server on 8000 port which will be the backend. 
