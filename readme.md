@@ -6,9 +6,11 @@ I have created a backend and it runs on localhost.<br>
 <h5>Prerequisite: php7.1, apache, composer</h5>
 
 How to start the backend:<br>
-1. Open a terminal/cmd and cd/enter into 
-2. You should run: `composer install` to install the defined dependencies.
-3. After you should enter inot falconBackend/public dirrectory and run the following command: `php -S localhost:8000 `
+
+1. Clone it.<br>
+2. Open a terminal/cmd and cd/enter into<br>
+3. You should run: `composer install` to install the defined dependencies.<br>
+4. After you should enter inot falconBackend/public dirrectory and run the following command: `php -S localhost:8000`<br>
 You just started a local php server on 8000 port which will be the backend. 
 
 <p align="center">
